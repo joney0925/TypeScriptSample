@@ -1,0 +1,2 @@
+# TypeScriptSample
+typescript sample program
